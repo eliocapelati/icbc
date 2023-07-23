@@ -1,0 +1,5 @@
+
+#Ignoring dependencies and temporary files
+venv/
+.vscode/
+.temp/
