@@ -1,0 +1,15 @@
+
+
+## 0.0.1 - Creating project structure and initial assets
+
+- Adding project structure
+- Adding library style project
+- Creating initial tests. (Not sure yet how to create full functional tests without exposing PII)
+- Maybe creating local untracked file exposing this values. Or
+    mocking the api calls.
+- Initial lib implementation at icbc/road_test.py contains first functions such
+as:
+    - Login
+    - Fetch available spots with two types of grouping [Day of Month,
+    and day of week]
+    - Unfinished implementation of lock appointment code

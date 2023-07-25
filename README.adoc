@@ -1,0 +1,32 @@
+# ICBC Road Test Unnoficial SDK
+
+This library was created using ICBC's Rest API.
+
+All API calls were mapped using my browser's network console, with my own use case as starting point.
+
+No API spec files were found until the moment of writing this doc :sob:.
+
+## Why
+
+My mind is great at keeping track of where to get the best coffee, but not with some tasks that are not part of my daily life. Such as scheduling the driving test.
+
+And despite having a great interface and being simple to use, the ICBC portal lacks some features needed to save my login, and my preferences when searching for road test availability.
+
+Just like many other developers, I like to automate tasks. But I found some repos in github, but all using some sort of emulation, and not fully featured.
+
+No browser emulation is used in this project. It's perfect library to create your own CLI/Cron/App for monitoring the road test availability.
+
+This library is for you to automate the ICBC road test in your own way.
+
+
+## License
+
+Refer to link:LICENSE[LICENSE] information. 
+
+[IMPORTANT]
+====
+All analysis, inferences, opinions, and conclusions drawn in this library are those of the authors, and do not reflect the opinions, position or policies of ICBC.
+
+Please read the https://www.icbc.com/policies/Pages/open-data-licence.aspx[ICBC Open Data License] to understand the fair use before creating any application using this library.
+====
+
